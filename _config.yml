@@ -2,11 +2,11 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://wangxuetao.github.io/blog
-title: My Octopress Blog
+url: http://www.javac.me
+title: javac网站
 subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
+author: 王雪涛
+simple_search: https://www.baidu.com
 description:
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
